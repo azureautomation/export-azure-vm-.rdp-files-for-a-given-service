@@ -1,0 +1,20 @@
+{
+    "Author": "Courtenay Bernier",
+    "ContentSize": 811,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/export-azure-vm-.rdp-files-for-a-given-service/master/BulkExportAzureVM-RDPfiles.ps1",
+    "DownloadCount": 1121,
+    "Id": "Export-Azure-VM-RDP-files-c4b501ea",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 290,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2014-10-8T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Don't have ExpressRoute or a VPN connection to Azure?\u00a0 Are you logging into the Azure Portal every time you need to connect to a VM?\u00a0 Ever wondered how to grab all those .RDP connections for VMs in Azure?\u00a0 Well now you can.Export Azure VM .RDP files to a local directory for a g",
+    "Title": "Export Azure VM .RDP files for a given service",
+    "UpdatedDate": "2014-10-8T00:00:00",
+    "Url": "https://github.com/azureautomation/export-azure-vm-.rdp-files-for-a-given-service",
+    "UserTags": "Microsoft Azure, Powershell Script, RDP"
+}
